@@ -1,1 +1,1 @@
-FindDividersOfNumber. C# Tutorials. DotNet Core Platform. Algorithms. Simple Input/Output. Console Application
+FindDividersOfNumber. C# Tutorials. DotNet Core Platform. Algorithms. Simple Input/Output. Console Application.
